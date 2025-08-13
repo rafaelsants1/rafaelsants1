@@ -1,6 +1,6 @@
 ## Hi there/ Olá 👋
 en-US<br>
-I'm Rafael Santos — a passionate developer driven by curiosity and a desire to turn ideas into code. Currently diving deep into web and mobile development, I’ve been working with technologies like Python, JavaScript, React, Node.js, and Flutter. I’m always exploring new tools and building projects that challenge and expand my skillset.
+I'm Rafael — a passionate developer driven by curiosity and a desire to turn ideas into code. Currently diving deep into web and mobile development, I’ve been working with technologies like Python, JavaScript, React, Node.js, and Flutter. I’m always exploring new tools and building projects that challenge and expand my skillset.
 
 🎯 My main focus is on crafting clean, efficient, and user-friendly applications — and I'm currently looking for opportunities to grow professionally as a Junior Developer.
 
@@ -8,7 +8,7 @@ Welcome to my GitHub! Feel free to explore my repositories and connect with me. 
 
 ##
 pt-BR<br>
-Sou Rafael Santos — um desenvolvedor apaixonado por tecnologia, movido pela curiosidade e pelo desejo de transformar ideias em código. Tenho me aprofundado no desenvolvimento web e mobile, utilizando tecnologias como Python, JavaScript, React, Node.js e Flutter. Gosto de aprender na prática, explorando novas ferramentas e construindo projetos que me desafiem.
+Sou Rafael — um desenvolvedor apaixonado por tecnologia, movido pela curiosidade e pelo desejo de transformar ideias em código. Tenho me aprofundado no desenvolvimento web e mobile, utilizando tecnologias como Python, JavaScript, React, Node.js e Flutter. Gosto de aprender na prática, explorando novas ferramentas e construindo projetos que me desafiem.
 
 🎯 Meu foco está em desenvolver aplicações limpas, eficientes e com boa experiência para o usuário — e atualmente busco oportunidades para crescer como Desenvolvedor Júnior.
 
